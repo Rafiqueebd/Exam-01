@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.banner{
+    width: 100%;
+    float: left;
+    background: url(../img/image01.jpg);
+   	margin: 0 auto;
+ 	background-repeat: no-repeat;
+ 	display: block;
+ 	background-size: cover;
+      
+}
+
+.banner-left{
+    width: 60%;
+    float: left;
+    
+}
+
+
+
+
+.form-contact h1{
+    text-align: center;
+    
+}
+
+.form-contact p{
+    
+    
+}
+
+.registeriform{
+    width: 40%;
+    float: left;
+    
+}
+.icons{
+    
+    
+}
+.fa.fa-chevron-circle-down{
+    
+}
